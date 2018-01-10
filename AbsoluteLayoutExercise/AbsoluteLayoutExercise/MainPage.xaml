@@ -8,7 +8,7 @@
         <BoxView Color="#f7f7f7"></BoxView>
         <StackLayout>
             <Label Text="$11.95" FontSize="60" FontAttributes="Bold"></Label>
-            <Button Text="Add $7.99 Credit" BackgroundColor="#1695A3" HeightRequest="40" BorderRadius="15" FontSize="15" FontAttributes="Bold"></Button>
+            <Button Text="Add $7.99 Credit" BackgroundColor="#1695A3" HeightRequest="38" BorderRadius="15" FontSize="15" FontAttributes="Bold"></Button>
          </StackLayout>
     </AbsoluteLayout>
 
